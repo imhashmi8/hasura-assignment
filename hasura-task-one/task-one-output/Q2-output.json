@@ -1,0 +1,4086 @@
+{
+    "data": {
+      "artist": [
+        {
+          "name": "Aaron Copland & London Symphony Orchestra",
+          "artist_albums": [
+            {
+              "title": "A Copland Celebration, Vol. I",
+              "album_tracks": [
+                {
+                  "name": "Fanfare for the Common Man"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aaron Goldberg",
+          "artist_albums": [
+            {
+              "title": "Worlds",
+              "album_tracks": [
+                {
+                  "name": "OAM's Blues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner",
+          "artist_albums": [
+            {
+              "title": "Sir Neville Marriner: A Celebration",
+              "album_tracks": [
+                {
+                  "name": "\"Eine Kleine Nachtmusik\" Serenade In G, K. 525: I. Allegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",
+          "artist_albums": [
+            {
+              "title": "Fauré: Requiem, Ravel: Pavane & Others",
+              "album_tracks": [
+                {
+                  "name": "Requiem, Op.48: 4. Pie Jesu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Academy of St. Martin in the Fields & Sir Neville Marriner",
+          "artist_albums": [
+            {
+              "title": "The World of Classical Favourites",
+              "album_tracks": [
+                {
+                  "name": "Fantasia On Greensleeves"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",
+          "artist_albums": [
+            {
+              "title": "Bach: Orchestral Suites Nos. 1 - 4",
+              "album_tracks": [
+                {
+                  "name": "Suite No. 3 in D, BWV 1068: III. Gavotte I & II"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",
+          "artist_albums": []
+        },
+        {
+          "name": "Accept",
+          "artist_albums": [
+            {
+              "title": "Balls to the Wall",
+              "album_tracks": [
+                {
+                  "name": "Balls to the Wall"
+                }
+              ]
+            },
+            {
+              "title": "Restless and Wild",
+              "album_tracks": [
+                {
+                  "name": "Fast As a Shark"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AC/DC",
+          "artist_albums": [
+            {
+              "title": "For Those About To Rock We Salute You",
+              "album_tracks": [
+                {
+                  "name": "Breaking The Rules"
+                }
+              ]
+            },
+            {
+              "title": "Let There Be Rock",
+              "album_tracks": [
+                {
+                  "name": "Bad Boy Boogie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A Cor Do Som",
+          "artist_albums": []
+        },
+        {
+          "name": "Adrian Leaper & Doreen de Feis",
+          "artist_albums": [
+            {
+              "title": "Górecki: Symphony No. 3",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 3 Op. 36 for Orchestra and Soprano \"Symfonia Piesni Zalosnych\" \\ Lento E Largo - Tranquillissimo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aerosmith",
+          "artist_albums": [
+            {
+              "title": "Big Ones",
+              "album_tracks": [
+                {
+                  "name": "Amazing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aerosmith & Sierra Leone's Refugee Allstars",
+          "artist_albums": []
+        },
+        {
+          "name": "Aisha Duo",
+          "artist_albums": [
+            {
+              "title": "Quiet Songs",
+              "album_tracks": [
+                {
+                  "name": "Amanda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alanis Morissette",
+          "artist_albums": [
+            {
+              "title": "Jagged Little Pill",
+              "album_tracks": [
+                {
+                  "name": "All I Really Want"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alberto Turco & Nova Schola Gregoriana",
+          "artist_albums": [
+            {
+              "title": "Adorate Deum: Gregorian Chant from the Proper of the Mass",
+              "album_tracks": [
+                {
+                  "name": "Intoitus: Adorate Deum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alice In Chains",
+          "artist_albums": [
+            {
+              "title": "Facelift",
+              "album_tracks": [
+                {
+                  "name": "Bleed The Freak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Amy Winehouse",
+          "artist_albums": [
+            {
+              "title": "Back to Black",
+              "album_tracks": [
+                {
+                  "name": "Back to Black"
+                }
+              ]
+            },
+            {
+              "title": "Frank",
+              "album_tracks": [
+                {
+                  "name": "Amy Amy Amy (Outro)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",
+          "artist_albums": [
+            {
+              "title": "Vivaldi: The Four Seasons",
+              "album_tracks": [
+                {
+                  "name": "Concerto No. 1 in E Major, RV 269 \"Spring\": I. Allegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Antal Doráti & London Symphony Orchestra",
+          "artist_albums": [
+            {
+              "title": "Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",
+              "album_tracks": [
+                {
+                  "name": "Wellington's Victory or the Battle Symphony, Op.91: 2. Symphony of Triumph"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Antônio Carlos Jobim",
+          "artist_albums": [
+            {
+              "title": "Chill: Brazil (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "Abrir A Porta"
+                }
+              ]
+            },
+            {
+              "title": "Warner 25 Anos",
+              "album_tracks": [
+                {
+                  "name": "Angela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Apocalyptica",
+          "artist_albums": [
+            {
+              "title": "Plays Metallica By Four Cellos",
+              "album_tracks": [
+                {
+                  "name": "Creeping Death"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aquaman",
+          "artist_albums": [
+            {
+              "title": "Aquaman",
+              "album_tracks": [
+                {
+                  "name": "Pilot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Audioslave",
+          "artist_albums": [
+            {
+              "title": "Audioslave",
+              "album_tracks": [
+                {
+                  "name": "Bring'em Back Alive"
+                }
+              ]
+            },
+            {
+              "title": "Out Of Exile",
+              "album_tracks": [
+                {
+                  "name": "#1 Zero"
+                }
+              ]
+            },
+            {
+              "title": "Revelations",
+              "album_tracks": [
+                {
+                  "name": "Band Members Discuss Tracks from \"Revelations\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Avril Lavigne",
+          "artist_albums": []
+        },
+        {
+          "name": "Azymuth",
+          "artist_albums": []
+        },
+        {
+          "name": "Baby Consuelo",
+          "artist_albums": []
+        },
+        {
+          "name": "BackBeat",
+          "artist_albums": [
+            {
+              "title": "BackBeat Soundtrack",
+              "album_tracks": [
+                {
+                  "name": "20 Flight Rock"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Banda Black Rio",
+          "artist_albums": []
+        },
+        {
+          "name": "Barão Vermelho",
+          "artist_albums": []
+        },
+        {
+          "name": "Barry Wordsworth & BBC Concert Orchestra",
+          "artist_albums": [
+            {
+              "title": "The Last Night of the Proms",
+              "album_tracks": [
+                {
+                  "name": "Nimrod (Adagio) from Variations On an Original Theme, Op. 36 \"Enigma\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Battlestar Galactica",
+          "artist_albums": [
+            {
+              "title": "Battlestar Galactica, Season 3",
+              "album_tracks": [
+                {
+                  "name": "A Day In the Life"
+                }
+              ]
+            },
+            {
+              "title": "Battlestar Galactica: The Story So Far",
+              "album_tracks": [
+                {
+                  "name": "Battlestar Galactica: The Story So Far"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Battlestar Galactica (Classic)",
+          "artist_albums": [
+            {
+              "title": "Battlestar Galactica (Classic), Season 1",
+              "album_tracks": [
+                {
+                  "name": "Baltar's Escape"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bebel Gilberto",
+          "artist_albums": []
+        },
+        {
+          "name": "Ben Harper",
+          "artist_albums": []
+        },
+        {
+          "name": "Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",
+          "artist_albums": [
+            {
+              "title": "Mozart: Wind Concertos",
+              "album_tracks": [
+                {
+                  "name": "Concerto for Clarinet in A Major, K. 622: II. Adagio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Berliner Philharmoniker & Hans Rosbaud",
+          "artist_albums": [
+            {
+              "title": "Sibelius: Finlandia",
+              "album_tracks": [
+                {
+                  "name": "Karelia Suite, Op.11: 2. Ballade (Tempo Di Menuetto)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Berliner Philharmoniker & Herbert Von Karajan",
+          "artist_albums": [
+            {
+              "title": "Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande",
+              "album_tracks": [
+                {
+                  "name": "Peer Gynt Suite No.1, Op.46: 1. Morning Mood"
+                }
+              ]
+            },
+            {
+              "title": "Mozart: Symphonies Nos. 40 & 41",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 41 in C Major, K. 551, \"Jupiter\": IV. Molto allegro"
+                }
+              ]
+            },
+            {
+              "title": "Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps",
+              "album_tracks": [
+                {
+                  "name": "Le Sacre Du Printemps: I.iv. Spring Rounds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Big & Rich",
+          "artist_albums": []
+        },
+        {
+          "name": "Billy Cobham",
+          "artist_albums": [
+            {
+              "title": "The Best Of Billy Cobham",
+              "album_tracks": [
+                {
+                  "name": "Do what cha wanna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Black Eyed Peas",
+          "artist_albums": []
+        },
+        {
+          "name": "Black Label Society",
+          "artist_albums": [
+            {
+              "title": "Alcohol Fueled Brewtality Live! [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "13 Years Of Grief"
+                }
+              ]
+            },
+            {
+              "title": "Alcohol Fueled Brewtality Live! [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "Blood In The Wall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Black Sabbath",
+          "artist_albums": [
+            {
+              "title": "Black Sabbath",
+              "album_tracks": [
+                {
+                  "name": "Behind The Wall Of Sleep"
+                }
+              ]
+            },
+            {
+              "title": "Black Sabbath Vol. 4 (Remaster)",
+              "album_tracks": [
+                {
+                  "name": "Changes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Body Count",
+          "artist_albums": [
+            {
+              "title": "Body Count",
+              "album_tracks": [
+                {
+                  "name": "A Statistic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Boston Symphony Orchestra & Seiji Ozawa",
+          "artist_albums": [
+            {
+              "title": "Carmina Burana",
+              "album_tracks": [
+                {
+                  "name": "Carmina Burana: O Fortuna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Britten Sinfonia, Ivor Bolton & Lesley Garrett",
+          "artist_albums": [
+            {
+              "title": "A Soprano Inspired",
+              "album_tracks": [
+                {
+                  "name": "Ave Maria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bruce Dickinson",
+          "artist_albums": [
+            {
+              "title": "Chemical Wedding",
+              "album_tracks": [
+                {
+                  "name": "Book Of Thel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buddy Guy",
+          "artist_albums": [
+            {
+              "title": "The Best Of Buddy Guy - The Millenium Collection",
+              "album_tracks": [
+                {
+                  "name": "First Time I Met The Blues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Caetano Veloso",
+          "artist_albums": [
+            {
+              "title": "Prenda Minha",
+              "album_tracks": [
+                {
+                  "name": "A Luz De Tieta"
+                }
+              ]
+            },
+            {
+              "title": "Sozinho Remix Ao Vivo",
+              "album_tracks": [
+                {
+                  "name": "Sozinho (Caêdrum 'n' Bass)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cake",
+          "artist_albums": [
+            {
+              "title": "Cake: B-Sides and Rarities",
+              "album_tracks": [
+                {
+                  "name": "War Pigs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Calexico",
+          "artist_albums": [
+            {
+              "title": "Carried to Dust (Bonus Track Version)",
+              "album_tracks": [
+                {
+                  "name": "Slowness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cássia Eller",
+          "artist_albums": [
+            {
+              "title": "Cássia Eller - Coleção Sem Limite [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "1° De Julho"
+                }
+              ]
+            },
+            {
+              "title": "Cássia Eller - Sem Limite [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Admirável Gado Novo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Charles Dutoit & L'Orchestre Symphonique de Montréal",
+          "artist_albums": [
+            {
+              "title": "The Ultimate Relexation Album",
+              "album_tracks": [
+                {
+                  "name": "3 Gymnopédies: No.1 - Lent Et Grave, No.3 - Lent Et Douloureux"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "artist_albums": []
+        },
+        {
+          "name": "Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",
+          "artist_albums": [
+            {
+              "title": "Great Opera Choruses",
+              "album_tracks": [
+                {
+                  "name": "Nabucco: Chorus, \"Va, Pensiero, Sull'ali Dorate\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago Symphony Orchestra & Fritz Reiner",
+          "artist_albums": [
+            {
+              "title": "Scheherazade",
+              "album_tracks": [
+                {
+                  "name": "Scheherazade, Op. 35: I. The Sea and Sindbad's Ship"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chico Buarque",
+          "artist_albums": [
+            {
+              "title": "Minha Historia",
+              "album_tracks": [
+                {
+                  "name": "A Banda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chico Science & Nação Zumbi",
+          "artist_albums": [
+            {
+              "title": "Afrociberdelia",
+              "album_tracks": [
+                {
+                  "name": "Amor De Muito"
+                }
+              ]
+            },
+            {
+              "title": "Da Lama Ao Caos",
+              "album_tracks": [
+                {
+                  "name": "Antene Se"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Choir Of Westminster Abbey & Simon Preston",
+          "artist_albums": [
+            {
+              "title": "Palestrina: Missa Papae Marcelli & Allegri: Miserere",
+              "album_tracks": [
+                {
+                  "name": "Missa Papae Marcelli: Kyrie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",
+          "artist_albums": [
+            {
+              "title": "Bizet: Carmen Highlights",
+              "album_tracks": [
+                {
+                  "name": "Carmen: Overture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chris Cornell",
+          "artist_albums": [
+            {
+              "title": "Carry On",
+              "album_tracks": [
+                {
+                  "name": "Arms Around Your Love"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christina Aguilera featuring BigElf",
+          "artist_albums": []
+        },
+        {
+          "name": "Christopher O'Riley",
+          "artist_albums": [
+            {
+              "title": "SCRIABIN: Vers la flamme",
+              "album_tracks": [
+                {
+                  "name": "SCRIABIN: Prelude in B Major, Op. 11, No. 11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cidade Negra",
+          "artist_albums": [
+            {
+              "title": "Acústico MTV [Live]",
+              "album_tracks": [
+                {
+                  "name": "A Cor Do Sol"
+                }
+              ]
+            },
+            {
+              "title": "Cidade Negra - Hits",
+              "album_tracks": [
+                {
+                  "name": "A Cor Do Sol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cláudio Zoli",
+          "artist_albums": [
+            {
+              "title": "Na Pista",
+              "album_tracks": [
+                {
+                  "name": "À Francesa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",
+          "artist_albums": [
+            {
+              "title": "Monteverdi: L'Orfeo",
+              "album_tracks": [
+                {
+                  "name": "L'orfeo, Act 3, Sinfonia (Orchestra)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "artist_albums": []
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "artist_albums": [
+            {
+              "title": "Chronicle, Vol. 1",
+              "album_tracks": [
+                {
+                  "name": "Bad Moon Rising"
+                }
+              ]
+            },
+            {
+              "title": "Chronicle, Vol. 2",
+              "album_tracks": [
+                {
+                  "name": "Before You Accuse Me"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "David Coverdale",
+          "artist_albums": [
+            {
+              "title": "Into The Light",
+              "album_tracks": [
+                {
+                  "name": "Cry For Love"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Deep Purple",
+          "artist_albums": [
+            {
+              "title": "Come Taste The Band",
+              "album_tracks": [
+                {
+                  "name": "Comin' Home"
+                }
+              ]
+            },
+            {
+              "title": "Deep Purple In Rock",
+              "album_tracks": [
+                {
+                  "name": "Bloodsucker"
+                }
+              ]
+            },
+            {
+              "title": "Fireball",
+              "album_tracks": [
+                {
+                  "name": "Anyone's Daughter"
+                }
+              ]
+            },
+            {
+              "title": "Knocking at Your Back Door: The Best Of Deep Purple in the 80's",
+              "album_tracks": [
+                {
+                  "name": "Bad Attitude"
+                }
+              ]
+            },
+            {
+              "title": "Machine Head",
+              "album_tracks": [
+                {
+                  "name": "Highway Star"
+                }
+              ]
+            },
+            {
+              "title": "MK III The Final Concerts [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Burn"
+                }
+              ]
+            },
+            {
+              "title": "Purpendicular",
+              "album_tracks": [
+                {
+                  "name": "A Castle Full Of Rascals"
+                }
+              ]
+            },
+            {
+              "title": "Slaves And Masters",
+              "album_tracks": [
+                {
+                  "name": "Breakfast In Bed"
+                }
+              ]
+            },
+            {
+              "title": "Stormbringer",
+              "album_tracks": [
+                {
+                  "name": "High Ball Shooter"
+                }
+              ]
+            },
+            {
+              "title": "The Battle Rages On",
+              "album_tracks": [
+                {
+                  "name": "Anya"
+                }
+              ]
+            },
+            {
+              "title": "The Final Concerts (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "Going Down / Highway Star"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Def Leppard",
+          "artist_albums": [
+            {
+              "title": "Vault: Def Leppard's Greatest Hits",
+              "album_tracks": [
+                {
+                  "name": "Action"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dennis Chambers",
+          "artist_albums": [
+            {
+              "title": "Outbreak",
+              "album_tracks": [
+                {
+                  "name": "Baltimore, DC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dhani Harrison & Jakob Dylan",
+          "artist_albums": []
+        },
+        {
+          "name": "Djavan",
+          "artist_albums": [
+            {
+              "title": "Djavan Ao Vivo - Vol. 02",
+              "album_tracks": [
+                {
+                  "name": "Acelerou"
+                }
+              ]
+            },
+            {
+              "title": "Djavan Ao Vivo - Vol. 1",
+              "album_tracks": [
+                {
+                  "name": "Açai"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DJ Dolores & Orchestra Santa Massa",
+          "artist_albums": []
+        },
+        {
+          "name": "Dread Zeppelin",
+          "artist_albums": [
+            {
+              "title": "Un-Led-Ed",
+              "album_tracks": [
+                {
+                  "name": "Your Time Is Gonna Come"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ed Motta",
+          "artist_albums": [
+            {
+              "title": "The Best of Ed Motta",
+              "album_tracks": [
+                {
+                  "name": "Agora Que O Dia Acordou"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Edo de Waart & San Francisco Symphony",
+          "artist_albums": [
+            {
+              "title": "Adams, John: The Chairman Dances",
+              "album_tracks": [
+                {
+                  "name": "Two Fanfares for Orchestra: II. Short Ride in a Fast Machine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",
+          "artist_albums": []
+        },
+        {
+          "name": "Elis Regina",
+          "artist_albums": [
+            {
+              "title": "Elis Regina-Minha História",
+              "album_tracks": [
+                {
+                  "name": "Alô, Alô, Marciano"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",
+          "artist_albums": [
+            {
+              "title": "Chopin: Piano Concertos Nos. 1 & 2",
+              "album_tracks": [
+                {
+                  "name": "Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emerson String Quartet",
+          "artist_albums": [
+            {
+              "title": "Schubert: The Late String Quartets & String Quintet (3 CD's)",
+              "album_tracks": [
+                {
+                  "name": "String Quartet No. 12 in C Minor, D. 703 \"Quartettsatz\": II. Andante - Allegro assai"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English Concert & Trevor Pinnock",
+          "artist_albums": [
+            {
+              "title": "Handel: Music for the Royal Fireworks (Original Version 1749)",
+              "album_tracks": [
+                {
+                  "name": "Music for the Royal Fireworks, HWV351 (1749): La Réjouissance"
+                }
+              ]
+            },
+            {
+              "title": "Pachelbel: Canon & Gigue",
+              "album_tracks": [
+                {
+                  "name": "Canon and Gigue in D Major: I. Canon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",
+          "artist_albums": [
+            {
+              "title": "Purcell: Music for the Queen Mary",
+              "album_tracks": [
+                {
+                  "name": "Music for the Funeral of Queen Mary: VI. \"Thou Knowest, Lord, the Secrets of Our Hearts\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eric Clapton",
+          "artist_albums": [
+            {
+              "title": "The Cream Of Clapton",
+              "album_tracks": [
+                {
+                  "name": "After Midnight"
+                }
+              ]
+            },
+            {
+              "title": "Unplugged",
+              "album_tracks": [
+                {
+                  "name": "Alberta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eugene Ormandy",
+          "artist_albums": [
+            {
+              "title": "Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",
+              "album_tracks": [
+                {
+                  "name": "Jupiter, the Bringer of Jollity"
+                }
+              ]
+            },
+            {
+              "title": "Respighi:Pines of Rome",
+              "album_tracks": [
+                {
+                  "name": "Pini Di Roma (Pinien Von Rom) \\ I Pini Della Via Appia"
+                }
+              ]
+            },
+            {
+              "title": "Strauss: Waltzes",
+              "album_tracks": [
+                {
+                  "name": "On the Beautiful Blue Danube"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Faith No More",
+          "artist_albums": [
+            {
+              "title": "Album Of The Year",
+              "album_tracks": [
+                {
+                  "name": "Ashes To Ashes"
+                }
+              ]
+            },
+            {
+              "title": "Angel Dust",
+              "album_tracks": [
+                {
+                  "name": "A Small Victory"
+                }
+              ]
+            },
+            {
+              "title": "King For A Day Fool For A Lifetime",
+              "album_tracks": [
+                {
+                  "name": "Absolute Zero"
+                }
+              ]
+            },
+            {
+              "title": "The Real Thing",
+              "album_tracks": [
+                {
+                  "name": "Edge Of The World"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Falamansa",
+          "artist_albums": [
+            {
+              "title": "Deixa Entrar",
+              "album_tracks": [
+                {
+                  "name": "Asas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",
+          "artist_albums": [
+            {
+              "title": "Elgar: Cello Concerto & Vaughan Williams: Fantasias",
+              "album_tracks": [
+                {
+                  "name": "Concerto for Cello and Orchestra in E minor, Op. 85: I. Adagio - Moderato"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fernanda Porto",
+          "artist_albums": []
+        },
+        {
+          "name": "Foo Fighters",
+          "artist_albums": [
+            {
+              "title": "In Your Honor [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Best Of You"
+                }
+              ]
+            },
+            {
+              "title": "In Your Honor [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "Another Round"
+                }
+              ]
+            },
+            {
+              "title": "One By One",
+              "album_tracks": [
+                {
+                  "name": "All My Life"
+                }
+              ]
+            },
+            {
+              "title": "The Colour And The Shape",
+              "album_tracks": [
+                {
+                  "name": "Doll"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Frank Sinatra",
+          "artist_albums": [
+            {
+              "title": "My Way: The Best Of Frank Sinatra [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Bad, Bad Leroy Brown"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Frank Zappa & Captain Beefheart",
+          "artist_albums": [
+            {
+              "title": "Bongo Fury",
+              "album_tracks": [
+                {
+                  "name": "200 Years Old"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fretwork",
+          "artist_albums": [
+            {
+              "title": "Armada: Music from the Courts of England and Spain",
+              "album_tracks": [
+                {
+                  "name": "Pavan, Lachrimae Antiquae"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Funk Como Le Gusta",
+          "artist_albums": [
+            {
+              "title": "Roda De Funk",
+              "album_tracks": [
+                {
+                  "name": "16 Toneladas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gene Krupa",
+          "artist_albums": [
+            {
+              "title": "Up An' Atom",
+              "album_tracks": [
+                {
+                  "name": "Blue Rythm Fantasy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gerald Moore",
+          "artist_albums": [
+            {
+              "title": "Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",
+              "album_tracks": [
+                {
+                  "name": "Erlkonig, D.328"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gilberto Gil",
+          "artist_albums": [
+            {
+              "title": "As Canções de Eu Tu Eles",
+              "album_tracks": [
+                {
+                  "name": "Asa Branca"
+                }
+              ]
+            },
+            {
+              "title": "Quanta Gente Veio ver--Bônus De Carnaval",
+              "album_tracks": [
+                {
+                  "name": "Doce De Carnaval (Candy All)"
+                }
+              ]
+            },
+            {
+              "title": "Quanta Gente Veio Ver (Live)",
+              "album_tracks": [
+                {
+                  "name": "A Novidade (Live)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Godsmack",
+          "artist_albums": [
+            {
+              "title": "Faceless",
+              "album_tracks": [
+                {
+                  "name": "Changes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gonzaguinha",
+          "artist_albums": [
+            {
+              "title": "Meus Momentos",
+              "album_tracks": [
+                {
+                  "name": "Com A Perna No Mundo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Göteborgs Symfoniker & Neeme Järvi",
+          "artist_albums": [
+            {
+              "title": "Nielsen: The Six Symphonies",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 2, Op. 16 -  \"The Four Temperaments\": II. Allegro Comodo e Flemmatico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Green Day",
+          "artist_albums": [
+            {
+              "title": "American Idiot",
+              "album_tracks": [
+                {
+                  "name": "American Idiot"
+                }
+              ]
+            },
+            {
+              "title": "International Superhits",
+              "album_tracks": [
+                {
+                  "name": "Basket Case"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Guns N' Roses",
+          "artist_albums": [
+            {
+              "title": "Appetite for Destruction",
+              "album_tracks": [
+                {
+                  "name": "Anything Goes"
+                }
+              ]
+            },
+            {
+              "title": "Use Your Illusion I",
+              "album_tracks": [
+                {
+                  "name": "Back off Bitch"
+                }
+              ]
+            },
+            {
+              "title": "Use Your Illusion II",
+              "album_tracks": [
+                {
+                  "name": "14 Years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gustav Mahler",
+          "artist_albums": [
+            {
+              "title": "Great Recordings of the Century - Mahler: Das Lied von der Erde",
+              "album_tracks": [
+                {
+                  "name": "Das Lied Von Der Erde, Von Der Jugend"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gustavo & Andres Veiga & Salazar",
+          "artist_albums": []
+        },
+        {
+          "name": "Habib Koité and Bamada",
+          "artist_albums": [
+            {
+              "title": "Muso Ko",
+              "album_tracks": [
+                {
+                  "name": "Din Din Wo (Little Child)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",
+          "artist_albums": [
+            {
+              "title": "Puccini: Madama Butterfly - Highlights",
+              "album_tracks": [
+                {
+                  "name": "Madama Butterfly: Un Bel Dì Vedremo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hermeto Pascoal",
+          "artist_albums": []
+        },
+        {
+          "name": "Heroes",
+          "artist_albums": [
+            {
+              "title": "Heroes, Season 1",
+              "album_tracks": [
+                {
+                  "name": ".07%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",
+          "artist_albums": [
+            {
+              "title": "Bach: Violin Concertos",
+              "album_tracks": [
+                {
+                  "name": "Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "House Of Pain",
+          "artist_albums": [
+            {
+              "title": "House of Pain",
+              "album_tracks": [
+                {
+                  "name": "All My Love"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Incognito",
+          "artist_albums": [
+            {
+              "title": "Blue Moods",
+              "album_tracks": [
+                {
+                  "name": "Colibri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Instituto",
+          "artist_albums": []
+        },
+        {
+          "name": "Iron Maiden",
+          "artist_albums": [
+            {
+              "title": "A Matter of Life and Death",
+              "album_tracks": [
+                {
+                  "name": "Brighter Than a Thousand Suns"
+                }
+              ]
+            },
+            {
+              "title": "A Real Dead One",
+              "album_tracks": [
+                {
+                  "name": "2 Minutes To Midnight"
+                }
+              ]
+            },
+            {
+              "title": "A Real Live One",
+              "album_tracks": [
+                {
+                  "name": "Afraid To Shoot Strangers"
+                }
+              ]
+            },
+            {
+              "title": "Brave New World",
+              "album_tracks": [
+                {
+                  "name": "Blood Brothers"
+                }
+              ]
+            },
+            {
+              "title": "Dance Of Death",
+              "album_tracks": [
+                {
+                  "name": "Age Of Innocence"
+                }
+              ]
+            },
+            {
+              "title": "Fear Of The Dark",
+              "album_tracks": [
+                {
+                  "name": "Afraid To Shoot Strangers"
+                }
+              ]
+            },
+            {
+              "title": "Iron Maiden",
+              "album_tracks": [
+                {
+                  "name": "01 - Prowler"
+                }
+              ]
+            },
+            {
+              "title": "Killers",
+              "album_tracks": [
+                {
+                  "name": "Another Life"
+                }
+              ]
+            },
+            {
+              "title": "Live After Death",
+              "album_tracks": [
+                {
+                  "name": "2 Minutes To Midnight"
+                }
+              ]
+            },
+            {
+              "title": "Live At Donington 1992 (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "Afraid To Shoot Strangers"
+                }
+              ]
+            },
+            {
+              "title": "Live At Donington 1992 (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "2 Minutes To Midnight"
+                }
+              ]
+            },
+            {
+              "title": "No Prayer For The Dying",
+              "album_tracks": [
+                {
+                  "name": "Bring Your Daughter... ...To The Slaughter"
+                }
+              ]
+            },
+            {
+              "title": "Piece Of Mind",
+              "album_tracks": [
+                {
+                  "name": "Die With Your Boots On"
+                }
+              ]
+            },
+            {
+              "title": "Powerslave",
+              "album_tracks": [
+                {
+                  "name": "2 Minutes To Midnight"
+                }
+              ]
+            },
+            {
+              "title": "Rock In Rio [CD1]",
+              "album_tracks": [
+                {
+                  "name": "2 Minutes To Midnight"
+                }
+              ]
+            },
+            {
+              "title": "Rock In Rio [CD2]",
+              "album_tracks": [
+                {
+                  "name": "Dream Of Mirrors"
+                }
+              ]
+            },
+            {
+              "title": "Seventh Son of a Seventh Son",
+              "album_tracks": [
+                {
+                  "name": "Can I Play With Madness"
+                }
+              ]
+            },
+            {
+              "title": "Somewhere in Time",
+              "album_tracks": [
+                {
+                  "name": "Alexander the Great"
+                }
+              ]
+            },
+            {
+              "title": "The Number of The Beast",
+              "album_tracks": [
+                {
+                  "name": "22 Acacia Avenue"
+                }
+              ]
+            },
+            {
+              "title": "The X Factor",
+              "album_tracks": [
+                {
+                  "name": "2 A.M."
+                }
+              ]
+            },
+            {
+              "title": "Virtual XI",
+              "album_tracks": [
+                {
+                  "name": "Como Estais Amigos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Itzhak Perlman",
+          "artist_albums": [
+            {
+              "title": "Great Recordings of the Century: Paganini's 24 Caprices",
+              "album_tracks": [
+                {
+                  "name": "24 Caprices, Op. 1, No. 24, for Solo Violin, in A Minor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jack Johnson",
+          "artist_albums": []
+        },
+        {
+          "name": "Jack's Mannequin & Mick Fleetwood",
+          "artist_albums": []
+        },
+        {
+          "name": "Jackson Browne",
+          "artist_albums": []
+        },
+        {
+          "name": "Jaguares",
+          "artist_albums": []
+        },
+        {
+          "name": "James Brown",
+          "artist_albums": [
+            {
+              "title": "Sex Machine",
+              "album_tracks": [
+                {
+                  "name": "Cold Sweat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "James Levine",
+          "artist_albums": [
+            {
+              "title": "Mascagni: Cavalleria Rusticana",
+              "album_tracks": [
+                {
+                  "name": "Cavalleria Rusticana \\ Act \\ Intermezzo Sinfonico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jamiroquai",
+          "artist_albums": [
+            {
+              "title": "Emergency On Planet Earth",
+              "album_tracks": [
+                {
+                  "name": "Blow Your Mind"
+                }
+              ]
+            },
+            {
+              "title": "Synkronized",
+              "album_tracks": [
+                {
+                  "name": "Black Capricorn Day"
+                }
+              ]
+            },
+            {
+              "title": "The Return Of The Space Cowboy",
+              "album_tracks": [
+                {
+                  "name": "Half The Man"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JET",
+          "artist_albums": [
+            {
+              "title": "Get Born",
+              "album_tracks": [
+                {
+                  "name": "Are You Gonna Be My Girl"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jimi Hendrix",
+          "artist_albums": [
+            {
+              "title": "Are You Experienced?",
+              "album_tracks": [
+                {
+                  "name": "51st Anniversary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "João Gilberto",
+          "artist_albums": []
+        },
+        {
+          "name": "João Suplicy",
+          "artist_albums": [
+            {
+              "title": "Cafezinho",
+              "album_tracks": [
+                {
+                  "name": "Borogodo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Joe Satriani",
+          "artist_albums": [
+            {
+              "title": "Surfing with the Alien (Remastered)",
+              "album_tracks": [
+                {
+                  "name": "Always With Me, Always With You"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jorge Ben",
+          "artist_albums": [
+            {
+              "title": "Jorge Ben Jor 25 Anos",
+              "album_tracks": [
+                {
+                  "name": "Alcohol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jorge Vercilo",
+          "artist_albums": []
+        },
+        {
+          "name": "Jota Quest",
+          "artist_albums": [
+            {
+              "title": "Jota Quest-1995",
+              "album_tracks": [
+                {
+                  "name": "Always Be All Right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Judas Priest",
+          "artist_albums": [
+            {
+              "title": "Living After Midnight",
+              "album_tracks": [
+                {
+                  "name": "Breaking The Law (Live)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Julian Bream",
+          "artist_albums": [
+            {
+              "title": "J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",
+              "album_tracks": [
+                {
+                  "name": "Partita in E Major, BWV 1006A: I. Prelude"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Karsh Kale",
+          "artist_albums": [
+            {
+              "title": "Realize",
+              "album_tracks": [
+                {
+                  "name": "Distance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kent Nagano and Orchestre de l'Opéra de Lyon",
+          "artist_albums": [
+            {
+              "title": "Weill: The Seven Deadly Sins",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 2: III. Allegro vivace"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kid Abelha",
+          "artist_albums": []
+        },
+        {
+          "name": "Kiss",
+          "artist_albums": [
+            {
+              "title": "Greatest Kiss",
+              "album_tracks": [
+                {
+                  "name": "Beth"
+                }
+              ]
+            },
+            {
+              "title": "Unplugged [Live]",
+              "album_tracks": [
+                {
+                  "name": "2,000 Man"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Led Zeppelin",
+          "artist_albums": [
+            {
+              "title": "BBC Sessions [Disc 1] [Live]",
+              "album_tracks": [
+                {
+                  "name": "Communication Breakdown"
+                }
+              ]
+            },
+            {
+              "title": "BBC Sessions [Disc 2] [Live]",
+              "album_tracks": [
+                {
+                  "name": "Black Dog"
+                }
+              ]
+            },
+            {
+              "title": "Coda",
+              "album_tracks": [
+                {
+                  "name": "Bonzo's Montreux"
+                }
+              ]
+            },
+            {
+              "title": "Houses Of The Holy",
+              "album_tracks": [
+                {
+                  "name": "Dancing Days"
+                }
+              ]
+            },
+            {
+              "title": "In Through The Out Door",
+              "album_tracks": [
+                {
+                  "name": "All My Love"
+                }
+              ]
+            },
+            {
+              "title": "IV",
+              "album_tracks": [
+                {
+                  "name": "Black Dog"
+                }
+              ]
+            },
+            {
+              "title": "Led Zeppelin I",
+              "album_tracks": [
+                {
+                  "name": "Babe I'm Gonna Leave You"
+                }
+              ]
+            },
+            {
+              "title": "Led Zeppelin II",
+              "album_tracks": [
+                {
+                  "name": "Bring It On Home"
+                }
+              ]
+            },
+            {
+              "title": "Led Zeppelin III",
+              "album_tracks": [
+                {
+                  "name": "Bron-Y-Aur Stomp"
+                }
+              ]
+            },
+            {
+              "title": "Physical Graffiti [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Custard Pie"
+                }
+              ]
+            },
+            {
+              "title": "Physical Graffiti [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "Black Country Woman"
+                }
+              ]
+            },
+            {
+              "title": "Presence",
+              "album_tracks": [
+                {
+                  "name": "Achilles Last Stand"
+                }
+              ]
+            },
+            {
+              "title": "The Song Remains The Same (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "Celebration Day"
+                }
+              ]
+            },
+            {
+              "title": "The Song Remains The Same (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "Moby Dick"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Legião Urbana",
+          "artist_albums": [
+            {
+              "title": "A TempestadeTempestade Ou O Livro Dos Dias",
+              "album_tracks": [
+                {
+                  "name": "1º De Julho"
+                }
+              ]
+            },
+            {
+              "title": "Mais Do Mesmo",
+              "album_tracks": [
+                {
+                  "name": "Ainda É Cedo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lenny Kravitz",
+          "artist_albums": [
+            {
+              "title": "Greatest Hits",
+              "album_tracks": [
+                {
+                  "name": "Again"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Leonard Bernstein & New York Philharmonic",
+          "artist_albums": [
+            {
+              "title": "Great Performances - Barber's Adagio and Other Romantic Favorites for Strings",
+              "album_tracks": [
+                {
+                  "name": "Adagio for Strings from the String Quartet, Op. 11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Les Arts Florissants & William Christie",
+          "artist_albums": [
+            {
+              "title": "Charpentier: Divertissements, Airs & Concerts",
+              "album_tracks": [
+                {
+                  "name": "Concert pour 4 Parties de V**les, H. 545: I. Prelude"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London Symphony Orchestra & Sir Charles Mackerras",
+          "artist_albums": [
+            {
+              "title": "Tchaikovsky: The Nutcracker",
+              "album_tracks": [
+                {
+                  "name": "The Nutcracker, Op. 71a, Act II: Scene 14: Pas de deux: Dance of the Prince & the Sugar-Plum Fairy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Los Hermanos",
+          "artist_albums": []
+        },
+        {
+          "name": "Los Lonely Boys",
+          "artist_albums": []
+        },
+        {
+          "name": "Lost",
+          "artist_albums": [
+            {
+              "title": "Lost, Season 1",
+              "album_tracks": [
+                {
+                  "name": "All the Best Cowboys Have Daddy Issues"
+                }
+              ]
+            },
+            {
+              "title": "Lost, Season 2",
+              "album_tracks": [
+                {
+                  "name": "\"?\""
+                }
+              ]
+            },
+            {
+              "title": "Lost, Season 3",
+              "album_tracks": [
+                {
+                  "name": "A Tale of Two Cities"
+                }
+              ]
+            },
+            {
+              "title": "LOST, Season 4",
+              "album_tracks": [
+                {
+                  "name": "Cabin Fever"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Luciana Souza/Romero Lubambo",
+          "artist_albums": [
+            {
+              "title": "Duos II",
+              "album_tracks": [
+                {
+                  "name": "Muita Bobeira"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "artist_albums": [
+            {
+              "title": "Pavarotti's Opera Made Easy",
+              "album_tracks": [
+                {
+                  "name": "Turandot, Act III, Nessun dorma!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Luiz Melodia",
+          "artist_albums": []
+        },
+        {
+          "name": "Lulu Santos",
+          "artist_albums": [
+            {
+              "title": "Lulu Santos - RCA 100 Anos De Música - Álbum 01",
+              "album_tracks": [
+                {
+                  "name": "A Cura"
+                }
+              ]
+            },
+            {
+              "title": "Lulu Santos - RCA 100 Anos De Música - Álbum 02",
+              "album_tracks": [
+                {
+                  "name": "Aquilo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marcos Valle",
+          "artist_albums": [
+            {
+              "title": "Chill: Brazil (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "Água de Beber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marillion",
+          "artist_albums": [
+            {
+              "title": "Misplaced Childhood",
+              "album_tracks": [
+                {
+                  "name": "Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marisa Monte",
+          "artist_albums": [
+            {
+              "title": "Barulhinho Bom",
+              "album_tracks": [
+                {
+                  "name": "Ainda Lembro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Martin Roscoe",
+          "artist_albums": [
+            {
+              "title": "Szymanowski: Piano Works, Vol. 1",
+              "album_tracks": [
+                {
+                  "name": "Metopes, Op. 29: Calypso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marvin Gaye",
+          "artist_albums": [
+            {
+              "title": "Seek And Shall Find: More Of The Best (1963-1981)",
+              "album_tracks": [
+                {
+                  "name": "Abraham, Martin And John"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Matisyahu",
+          "artist_albums": []
+        },
+        {
+          "name": "Maurizio Pollini",
+          "artist_albums": [
+            {
+              "title": "Beethoven Piano Sonatas: Moonlight & Pastorale",
+              "album_tracks": [
+                {
+                  "name": "Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, \"Moonlight\": I. Adagio sostenuto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mela Tenenbaum, Pro Musica Prague & Richard Kapp",
+          "artist_albums": [
+            {
+              "title": "Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",
+              "album_tracks": [
+                {
+                  "name": "Concerto for Violin, Strings and Continuo in G Major, Op. 3, No. 9: I. Allegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Men At Work",
+          "artist_albums": [
+            {
+              "title": "The Best Of Men At Work",
+              "album_tracks": [
+                {
+                  "name": "Be Good Johnny"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metallica",
+          "artist_albums": [
+            {
+              "title": "...And Justice For All",
+              "album_tracks": [
+                {
+                  "name": "...And Justice For All"
+                }
+              ]
+            },
+            {
+              "title": "Black Album",
+              "album_tracks": [
+                {
+                  "name": "Don't Tread On Me"
+                }
+              ]
+            },
+            {
+              "title": "Garage Inc. (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "Astronomy"
+                }
+              ]
+            },
+            {
+              "title": "Garage Inc. (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "Am I Evil?"
+                }
+              ]
+            },
+            {
+              "title": "Kill 'Em All",
+              "album_tracks": [
+                {
+                  "name": "(Anesthesia) Pulling Teeth"
+                }
+              ]
+            },
+            {
+              "title": "Load",
+              "album_tracks": [
+                {
+                  "name": "2 X 4"
+                }
+              ]
+            },
+            {
+              "title": "Master Of Puppets",
+              "album_tracks": [
+                {
+                  "name": "Battery"
+                }
+              ]
+            },
+            {
+              "title": "ReLoad",
+              "album_tracks": [
+                {
+                  "name": "Attitude"
+                }
+              ]
+            },
+            {
+              "title": "Ride The Lightning",
+              "album_tracks": [
+                {
+                  "name": "Creeping Death"
+                }
+              ]
+            },
+            {
+              "title": "St. Anger",
+              "album_tracks": [
+                {
+                  "name": "All Within My Hands"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Michael Tilson Thomas & San Francisco Symphony",
+          "artist_albums": [
+            {
+              "title": "Berlioz: Symphonie Fantastique",
+              "album_tracks": [
+                {
+                  "name": "Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat"
+                }
+              ]
+            },
+            {
+              "title": "Prokofiev: Romeo & Juliet",
+              "album_tracks": [
+                {
+                  "name": "Romeo et Juliette: No. 11 - Danse des Chevaliers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Michele Campanella",
+          "artist_albums": [
+            {
+              "title": "Liszt - 12 Études D'Execution Transcendante",
+              "album_tracks": [
+                {
+                  "name": "Étude 1, In C Major - Preludio (Presto) - Liszt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Miles Davis",
+          "artist_albums": [
+            {
+              "title": "Miles Ahead",
+              "album_tracks": [
+                {
+                  "name": "Blues For Pablo"
+                }
+              ]
+            },
+            {
+              "title": "The Essential Miles Davis [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Bye Bye Blackbird"
+                }
+              ]
+            },
+            {
+              "title": "The Essential Miles Davis [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "Black Satin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Milton Nascimento",
+          "artist_albums": [
+            {
+              "title": "Milton Nascimento Ao Vivo",
+              "album_tracks": [
+                {
+                  "name": "A Noite Do Meu Bem"
+                }
+              ]
+            },
+            {
+              "title": "Minas",
+              "album_tracks": [
+                {
+                  "name": "Beijo Partido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Milton Nascimento & Bebeto",
+          "artist_albums": []
+        },
+        {
+          "name": "Mônica Marianno",
+          "artist_albums": [
+            {
+              "title": "Demorou...",
+              "album_tracks": [
+                {
+                  "name": "A Moça e a Chuva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mötley Crüe",
+          "artist_albums": [
+            {
+              "title": "Motley Crue Greatest Hits",
+              "album_tracks": [
+                {
+                  "name": "Afraid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Motörhead",
+          "artist_albums": [
+            {
+              "title": "Ace Of Spades",
+              "album_tracks": [
+                {
+                  "name": "Ace Of Spades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Motörhead & Girlschool",
+          "artist_albums": []
+        },
+        {
+          "name": "Mundo Livre S/A",
+          "artist_albums": []
+        },
+        {
+          "name": "Nação Zumbi",
+          "artist_albums": []
+        },
+        {
+          "name": "Nando Reis",
+          "artist_albums": []
+        },
+        {
+          "name": "Nash Ensemble",
+          "artist_albums": [
+            {
+              "title": "Mozart: Chamber Music",
+              "album_tracks": [
+                {
+                  "name": "Quintet for Horn, Violin, 2 Violas, and Cello in E Flat Major, K. 407/386c: III. Allegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nega Gizza",
+          "artist_albums": []
+        },
+        {
+          "name": "Ney Matogrosso",
+          "artist_albums": []
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "artist_albums": [
+            {
+              "title": "The Best of Beethoven",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 3 in E-flat major, Op. 55, \"Eroica\" - Scherzo: Allegro Vivace"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nirvana",
+          "artist_albums": [
+            {
+              "title": "From The Muddy Banks Of The Wishkah [Live]",
+              "album_tracks": [
+                {
+                  "name": "Aneurysm"
+                }
+              ]
+            },
+            {
+              "title": "Nevermind",
+              "album_tracks": [
+                {
+                  "name": "Breed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Olodum",
+          "artist_albums": [
+            {
+              "title": "Olodum",
+              "album_tracks": [
+                {
+                  "name": "Cartao Postal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "O Rappa",
+          "artist_albums": [
+            {
+              "title": "Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro",
+              "album_tracks": [
+                {
+                  "name": "Armadura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Orchestra of The Age of Enlightenment",
+          "artist_albums": [
+            {
+              "title": "Bach: The Brandenburg Concertos",
+              "album_tracks": [
+                {
+                  "name": "Concerto No.2 in F Major, BWV1047, I. Allegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Orchestre Révolutionnaire et Romantique & John Eliot Gardiner",
+          "artist_albums": [
+            {
+              "title": "Beethoven: Symhonies Nos. 5 & 6",
+              "album_tracks": [
+                {
+                  "name": "Symphony No.5 in C Minor: I. Allegro con brio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Os Cariocas",
+          "artist_albums": []
+        },
+        {
+          "name": "Os Mutantes",
+          "artist_albums": [
+            {
+              "title": "Minha História",
+              "album_tracks": [
+                {
+                  "name": "A E O Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "artist_albums": [
+            {
+              "title": "Acústico MTV",
+              "album_tracks": [
+                {
+                  "name": "Bora-Bora"
+                }
+              ]
+            },
+            {
+              "title": "Arquivo II",
+              "album_tracks": [
+                {
+                  "name": "Aonde Quer Que Eu Va"
+                }
+              ]
+            },
+            {
+              "title": "Arquivo Os Paralamas Do Sucesso",
+              "album_tracks": [
+                {
+                  "name": "Alagados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "O Terço",
+          "artist_albums": [
+            {
+              "title": "Compositores",
+              "album_tracks": [
+                {
+                  "name": "Às Vezes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Otto",
+          "artist_albums": []
+        },
+        {
+          "name": "Otto Klemperer & Philharmonia Orchestra",
+          "artist_albums": [
+            {
+              "title": "Beethoven: Symphony No. 6 'Pastoral' Etc.",
+              "album_tracks": [
+                {
+                  "name": "Prometheus Overture, Op. 43"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "artist_albums": [
+            {
+              "title": "Bark at the Moon (Remastered)",
+              "album_tracks": [
+                {
+                  "name": "Bark at the Moon"
+                }
+              ]
+            },
+            {
+              "title": "Blizzard of Ozz",
+              "album_tracks": [
+                {
+                  "name": "Crazy Train"
+                }
+              ]
+            },
+            {
+              "title": "Diary of a Madman (Remastered)",
+              "album_tracks": [
+                {
+                  "name": "Flying High Again"
+                }
+              ]
+            },
+            {
+              "title": "No More Tears (Remastered)",
+              "album_tracks": [
+                {
+                  "name": "Mama, I'm Coming Home"
+                }
+              ]
+            },
+            {
+              "title": "Speak of the Devil",
+              "album_tracks": [
+                {
+                  "name": "Black Sabbath"
+                }
+              ]
+            },
+            {
+              "title": "Tribute",
+              "album_tracks": [
+                {
+                  "name": "Believer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Page & Plant",
+          "artist_albums": [
+            {
+              "title": "Walking Into Clarksdale",
+              "album_tracks": [
+                {
+                  "name": "Blue Train"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Passengers",
+          "artist_albums": [
+            {
+              "title": "Original Soundtracks 1",
+              "album_tracks": [
+                {
+                  "name": "A Different Kind Of Blue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paul D'Ianno",
+          "artist_albums": [
+            {
+              "title": "The Beast Live",
+              "album_tracks": [
+                {
+                  "name": "Iron Maiden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pearl Jam",
+          "artist_albums": [
+            {
+              "title": "Live On Two Legs [Live]",
+              "album_tracks": [
+                {
+                  "name": "Better Man"
+                }
+              ]
+            },
+            {
+              "title": "Pearl Jam",
+              "album_tracks": [
+                {
+                  "name": "Army Reserve"
+                }
+              ]
+            },
+            {
+              "title": "Riot Act",
+              "album_tracks": [
+                {
+                  "name": "1/2 Full"
+                }
+              ]
+            },
+            {
+              "title": "Ten",
+              "album_tracks": [
+                {
+                  "name": "Alive"
+                }
+              ]
+            },
+            {
+              "title": "Vs.",
+              "album_tracks": [
+                {
+                  "name": "Animal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pedro Luís & A Parede",
+          "artist_albums": []
+        },
+        {
+          "name": "Pedro Luís E A Parede",
+          "artist_albums": []
+        },
+        {
+          "name": "Peter Tosh",
+          "artist_albums": []
+        },
+        {
+          "name": "Philharmonia Orchestra & Sir Neville Marriner",
+          "artist_albums": [
+            {
+              "title": "Mendelssohn: A Midsummer Night's Dream",
+              "album_tracks": [
+                {
+                  "name": "A Midsummer Night's Dream, Op.61 Incidental Music: No.7 Notturno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Philip Glass Ensemble",
+          "artist_albums": [
+            {
+              "title": "Koyaanisqatsi (Soundtrack from the Motion Picture)",
+              "album_tracks": [
+                {
+                  "name": "Koyaanisqatsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pink Floyd",
+          "artist_albums": [
+            {
+              "title": "Dark Side Of The Moon",
+              "album_tracks": [
+                {
+                  "name": "Any Colour You Like"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Planet Hemp",
+          "artist_albums": [
+            {
+              "title": "Os Cães Ladram Mas A Caravana Não Pára",
+              "album_tracks": [
+                {
+                  "name": "100% HardCore"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Queen",
+          "artist_albums": [
+            {
+              "title": "Greatest Hits I",
+              "album_tracks": [
+                {
+                  "name": "Another One Bites The Dust"
+                }
+              ]
+            },
+            {
+              "title": "Greatest Hits II",
+              "album_tracks": [
+                {
+                  "name": "A Kind Of Magic"
+                }
+              ]
+            },
+            {
+              "title": "News Of The World",
+              "album_tracks": [
+                {
+                  "name": "All Dead, All Dead"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Raimundos",
+          "artist_albums": [
+            {
+              "title": "Cesta Básica",
+              "album_tracks": [
+                {
+                  "name": "A Sua"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Raul Seixas",
+          "artist_albums": [
+            {
+              "title": "Raul Seixas",
+              "album_tracks": [
+                {
+                  "name": "As Profecias"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "artist_albums": [
+            {
+              "title": "Blood Sugar Sex Magik",
+              "album_tracks": [
+                {
+                  "name": "Apache Rose Peacock"
+                }
+              ]
+            },
+            {
+              "title": "By The Way",
+              "album_tracks": [
+                {
+                  "name": "By The Way"
+                }
+              ]
+            },
+            {
+              "title": "Californication",
+              "album_tracks": [
+                {
+                  "name": "Around The World"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regina Spektor",
+          "artist_albums": []
+        },
+        {
+          "name": "R.E.M.",
+          "artist_albums": [
+            {
+              "title": "Green",
+              "album_tracks": [
+                {
+                  "name": "Get Up"
+                }
+              ]
+            },
+            {
+              "title": "New Adventures In Hi-Fi",
+              "album_tracks": [
+                {
+                  "name": "Be Mine"
+                }
+              ]
+            },
+            {
+              "title": "The Best Of R.E.M.: The IRS Years",
+              "album_tracks": [
+                {
+                  "name": "Can't Get There From Here"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R.E.M. Feat. Kate Pearson",
+          "artist_albums": [
+            {
+              "title": "Out Of Time",
+              "album_tracks": [
+                {
+                  "name": "Belong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R.E.M. Feat. KRS-One",
+          "artist_albums": []
+        },
+        {
+          "name": "Richard Marlow & The Choir of Trinity College, Cambridge",
+          "artist_albums": [
+            {
+              "title": "Allegri: Miserere",
+              "album_tracks": [
+                {
+                  "name": "Miserere mei, Deus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rodox",
+          "artist_albums": []
+        },
+        {
+          "name": "Roger Norrington, London Classical Players",
+          "artist_albums": [
+            {
+              "title": "Purcell: The Fairy Queen",
+              "album_tracks": [
+                {
+                  "name": "Act IV, Symphony"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Royal Philharmonic Orchestra & Sir Thomas Beecham",
+          "artist_albums": [
+            {
+              "title": "Haydn: Symphonies 99 - 104",
+              "album_tracks": [
+                {
+                  "name": "Symphony No. 104 in D Major \"London\": IV. Finale: Spiritoso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rush",
+          "artist_albums": [
+            {
+              "title": "Retrospective I (1974-1980)",
+              "album_tracks": [
+                {
+                  "name": "2112 Overture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sabotage E Instituto",
+          "artist_albums": []
+        },
+        {
+          "name": "Sandra De Sá",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana",
+          "artist_albums": [
+            {
+              "title": "Santana - As Years Go By",
+              "album_tracks": [
+                {
+                  "name": "As The Years Go by"
+                }
+              ]
+            },
+            {
+              "title": "Santana Live",
+              "album_tracks": [
+                {
+                  "name": "Evil Ways"
+                }
+              ]
+            },
+            {
+              "title": "Supernatural",
+              "album_tracks": [
+                {
+                  "name": "Africa Bamba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Santana Feat. Dave Matthews",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Eagle-Eye Cherry",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Eric Clapton",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Everlast",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Lauryn Hill & Cee-Lo",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Maná",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. Rob Thomas",
+          "artist_albums": []
+        },
+        {
+          "name": "Santana Feat. The Project G&B",
+          "artist_albums": []
+        },
+        {
+          "name": "Scholars Baroque Ensemble",
+          "artist_albums": [
+            {
+              "title": "Handel: The Messiah (Highlights)",
+              "album_tracks": [
+                {
+                  "name": "The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scorpions",
+          "artist_albums": [
+            {
+              "title": "20th Century Masters - The Millennium Collection: The Best of Scorpions",
+              "album_tracks": [
+                {
+                  "name": "Believe in Love"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sergei Prokofiev & Yuri Temirkanov",
+          "artist_albums": [
+            {
+              "title": "Prokofiev: Symphony No.1",
+              "album_tracks": [
+                {
+                  "name": "Symphony No.1 in D Major, Op.25 \"Classical\", Allegro Con Brio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Seu Jorge",
+          "artist_albums": []
+        },
+        {
+          "name": "Simply Red",
+          "artist_albums": []
+        },
+        {
+          "name": "Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",
+          "artist_albums": [
+            {
+              "title": "Mozart Gala: Famous Arias",
+              "album_tracks": [
+                {
+                  "name": "Die Zauberflöte, K.620: \"Der Hölle Rache Kocht in Meinem Herze\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sir Georg Solti & Wiener Philharmoniker",
+          "artist_albums": [
+            {
+              "title": "Wagner: Favourite Overtures",
+              "album_tracks": [
+                {
+                  "name": "Die Walküre: The Ride of the Valkyries"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skank",
+          "artist_albums": [
+            {
+              "title": "Maquinarama",
+              "album_tracks": [
+                {
+                  "name": "Água E Fogo"
+                }
+              ]
+            },
+            {
+              "title": "O Samba Poconé",
+              "album_tracks": [
+                {
+                  "name": "Eu Disse A Ela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smashing Pumpkins",
+          "artist_albums": [
+            {
+              "title": "Judas 0: B-Sides and Rarities",
+              "album_tracks": [
+                {
+                  "name": "Aeroplane Flies High"
+                }
+              ]
+            },
+            {
+              "title": "Rotten Apples: Greatest Hits",
+              "album_tracks": [
+                {
+                  "name": "1979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Snow Patrol",
+          "artist_albums": []
+        },
+        {
+          "name": "Soundgarden",
+          "artist_albums": [
+            {
+              "title": "A-Sides",
+              "album_tracks": [
+                {
+                  "name": "Black Hole Sun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spyro Gyra",
+          "artist_albums": [
+            {
+              "title": "Heart of the Night",
+              "album_tracks": [
+                {
+                  "name": "As We Sleep"
+                }
+              ]
+            },
+            {
+              "title": "Morning Dance",
+              "album_tracks": [
+                {
+                  "name": "End Of Romanticism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stereo Maracana",
+          "artist_albums": []
+        },
+        {
+          "name": "Stevie Ray Vaughan & Double Trouble",
+          "artist_albums": [
+            {
+              "title": "In Step",
+              "album_tracks": [
+                {
+                  "name": "Crossfire"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stone Temple Pilots",
+          "artist_albums": [
+            {
+              "title": "Core",
+              "album_tracks": [
+                {
+                  "name": "Crackerman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "System Of A Down",
+          "artist_albums": [
+            {
+              "title": "Mezmerize",
+              "album_tracks": [
+                {
+                  "name": "B.Y.O.B."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Temple of the Dog",
+          "artist_albums": [
+            {
+              "title": "Temple of the Dog",
+              "album_tracks": [
+                {
+                  "name": "All Night Thing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Terry Bozzio, Tony Levin & Steve Stevens",
+          "artist_albums": [
+            {
+              "title": "[1997] Black Light Syndrome",
+              "album_tracks": [
+                {
+                  "name": "Black Light Syndrome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The 12 Cellists of The Berlin Philharmonic",
+          "artist_albums": [
+            {
+              "title": "South American Getaway",
+              "album_tracks": [
+                {
+                  "name": "Adios nonino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Black Crowes",
+          "artist_albums": [
+            {
+              "title": "Live [Disc 1]",
+              "album_tracks": [
+                {
+                  "name": "Cosmic Fiend"
+                }
+              ]
+            },
+            {
+              "title": "Live [Disc 2]",
+              "album_tracks": [
+                {
+                  "name": "Black Moon Creeping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Clash",
+          "artist_albums": [
+            {
+              "title": "The Singles",
+              "album_tracks": [
+                {
+                  "name": "Bankrobber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Cult",
+          "artist_albums": [
+            {
+              "title": "Beyond Good And Evil",
+              "album_tracks": [
+                {
+                  "name": "American Gothic"
+                }
+              ]
+            },
+            {
+              "title": "Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",
+              "album_tracks": [
+                {
+                  "name": "Earth Mofo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Doors",
+          "artist_albums": [
+            {
+              "title": "The Doors",
+              "album_tracks": [
+                {
+                  "name": "Alabama Song"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Flaming Lips",
+          "artist_albums": []
+        },
+        {
+          "name": "The King's Singers",
+          "artist_albums": [
+            {
+              "title": "English Renaissance",
+              "album_tracks": [
+                {
+                  "name": "Lamentations of Jeremiah, First Set \\ Incipit Lamentatio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Office",
+          "artist_albums": [
+            {
+              "title": "The Office, Season 1",
+              "album_tracks": [
+                {
+                  "name": "Basketball"
+                }
+              ]
+            },
+            {
+              "title": "The Office, Season 2",
+              "album_tracks": [
+                {
+                  "name": "Booze Cruise"
+                }
+              ]
+            },
+            {
+              "title": "The Office, Season 3",
+              "album_tracks": [
+                {
+                  "name": "A Benihana Christmas, Pts. 1 & 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Police",
+          "artist_albums": [
+            {
+              "title": "The Police Greatest Hits",
+              "album_tracks": [
+                {
+                  "name": "Can't Stand Losing You"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Posies",
+          "artist_albums": [
+            {
+              "title": "Every Kind of Light",
+              "album_tracks": [
+                {
+                  "name": "I Guess You're Right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Postal Service",
+          "artist_albums": []
+        },
+        {
+          "name": "The Rolling Stones",
+          "artist_albums": [
+            {
+              "title": "Hot Rocks, 1964-1971 (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "19th Nervous Breakdown"
+                }
+              ]
+            },
+            {
+              "title": "No Security",
+              "album_tracks": [
+                {
+                  "name": "Corinna"
+                }
+              ]
+            },
+            {
+              "title": "Voodoo Lounge",
+              "album_tracks": [
+                {
+                  "name": "Baby Break It Down"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Tea Party",
+          "artist_albums": [
+            {
+              "title": "Tangents",
+              "album_tracks": [
+                {
+                  "name": "Babylon"
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "album_tracks": [
+                {
+                  "name": "Aftermath"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Who",
+          "artist_albums": [
+            {
+              "title": "My Generation - The Very Best Of The Who",
+              "album_tracks": [
+                {
+                  "name": "5.15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tim Maia",
+          "artist_albums": [
+            {
+              "title": "Serie Sem Limite (Disc 1)",
+              "album_tracks": [
+                {
+                  "name": "Até Que Enfim Encontrei Você"
+                }
+              ]
+            },
+            {
+              "title": "Serie Sem Limite (Disc 2)",
+              "album_tracks": [
+                {
+                  "name": "A Festa Do Santo Reis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Titãs",
+          "artist_albums": [
+            {
+              "title": "Acústico",
+              "album_tracks": [
+                {
+                  "name": "32 Dentes"
+                }
+              ]
+            },
+            {
+              "title": "Volume Dois",
+              "album_tracks": [
+                {
+                  "name": "Amanhã Não Se Sabe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ton Koopman",
+          "artist_albums": [
+            {
+              "title": "Bach: Toccata & Fugue in D Minor",
+              "album_tracks": [
+                {
+                  "name": "Toccata and Fugue in D Minor, BWV 565: I. Toccata"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Toquinho & Vinícius",
+          "artist_albums": [
+            {
+              "title": "Vinícius De Moraes - Sem Limite",
+              "album_tracks": [
+                {
+                  "name": "Berimbau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "U2",
+          "artist_albums": [
+            {
+              "title": "Achtung Baby",
+              "album_tracks": [
+                {
+                  "name": "Acrobat"
+                }
+              ]
+            },
+            {
+              "title": "All That You Can't Leave Behind",
+              "album_tracks": [
+                {
+                  "name": "Beautiful Day"
+                }
+              ]
+            },
+            {
+              "title": "B-Sides 1980-1990",
+              "album_tracks": [
+                {
+                  "name": "A Room At The Heartbreak Hotel"
+                }
+              ]
+            },
+            {
+              "title": "How To Dismantle An Atomic Bomb",
+              "album_tracks": [
+                {
+                  "name": "All Because Of You"
+                }
+              ]
+            },
+            {
+              "title": "Instant Karma: The Amnesty International Campaign to Save Darfur",
+              "album_tracks": [
+                {
+                  "name": "#9 Dream"
+                }
+              ]
+            },
+            {
+              "title": "Pop",
+              "album_tracks": [
+                {
+                  "name": "Discotheque"
+                }
+              ]
+            },
+            {
+              "title": "Rattle And Hum",
+              "album_tracks": [
+                {
+                  "name": "All Along The Watchtower"
+                }
+              ]
+            },
+            {
+              "title": "The Best Of 1980-1990",
+              "album_tracks": [
+                {
+                  "name": "All I Want Is You"
+                }
+              ]
+            },
+            {
+              "title": "War",
+              "album_tracks": [
+                {
+                  "name": "\"40\""
+                }
+              ]
+            },
+            {
+              "title": "Zooropa",
+              "album_tracks": [
+                {
+                  "name": "Babyface"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UB40",
+          "artist_albums": [
+            {
+              "title": "UB40 The Best Of - Volume Two [UK]",
+              "album_tracks": [
+                {
+                  "name": "Breakfast In Bed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Van Halen",
+          "artist_albums": [
+            {
+              "title": "Diver Down",
+              "album_tracks": [
+                {
+                  "name": "Big Bad Bill (Is Sweet William Now)"
+                }
+              ]
+            },
+            {
+              "title": "The Best Of Van Halen, Vol. I",
+              "album_tracks": [
+                {
+                  "name": "Ain't Talkin' 'bout Love"
+                }
+              ]
+            },
+            {
+              "title": "Van Halen",
+              "album_tracks": [
+                {
+                  "name": "Ain't Talkin' 'Bout Love"
+                }
+              ]
+            },
+            {
+              "title": "Van Halen III",
+              "album_tracks": [
+                {
+                  "name": "Ballot or the Bullet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Various Artists",
+          "artist_albums": [
+            {
+              "title": "Axé Bahia 2001",
+              "album_tracks": [
+                {
+                  "name": "Bate Lata"
+                }
+              ]
+            },
+            {
+              "title": "Carnaval 2001",
+              "album_tracks": [
+                {
+                  "name": "Aguia De Ouro 2001"
+                }
+              ]
+            },
+            {
+              "title": "Sambas De Enredo 2001",
+              "album_tracks": [
+                {
+                  "name": "Beija-Flor"
+                }
+              ]
+            },
+            {
+              "title": "Vozes do MPB",
+              "album_tracks": [
+                {
+                  "name": "Aquarela (Toquinho)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Velvet Revolver",
+          "artist_albums": [
+            {
+              "title": "Contraband",
+              "album_tracks": [
+                {
+                  "name": "Big Machine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vinícius De Moraes",
+          "artist_albums": [
+            {
+              "title": "Vinicius De Moraes",
+              "album_tracks": [
+                {
+                  "name": "A Bencao E Outros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vinícius De Moraes & Baden Powell",
+          "artist_albums": []
+        },
+        {
+          "name": "Vinícius E Odette Lara",
+          "artist_albums": []
+        },
+        {
+          "name": "Vinícius E Qurteto Em Cy",
+          "artist_albums": []
+        },
+        {
+          "name": "Vinicius, Toquinho & Quarteto Em Cy",
+          "artist_albums": []
+        },
+        {
+          "name": "Whitesnake",
+          "artist_albums": []
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "artist_albums": [
+            {
+              "title": "Bach: Goldberg Variations",
+              "album_tracks": [
+                {
+                  "name": "Aria Mit 30 Veränderungen, BWV 988 \"Goldberg Variations\": Aria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Xis",
+          "artist_albums": []
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "artist_albums": [
+            {
+              "title": "Bartok: Violin & Viola Concertos",
+              "album_tracks": [
+                {
+                  "name": "Sonata for Solo Violin: IV: Presto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Youssou N'Dour",
+          "artist_albums": []
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "artist_albums": [
+            {
+              "title": "Bach: The Cello Suites",
+              "album_tracks": [
+                {
+                  "name": "Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Prélude"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "artist_albums": [
+            {
+              "title": "Ao Vivo [IMPORT]",
+              "album_tracks": [
+                {
+                  "name": "Camarão que Dorme e Onda Leva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,32 @@
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: chinook
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  graphql-engine:
+    image: hasura/graphql-engine:v2.25.0
+    container_name: hasura-graphql
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      HASURA_GRAPHQL_ADMIN_SECRET: "mypassword" 
+      HASURA_GRAPHQL_ENABLE_CONSOLE: "true" 
+      HASURA_GRAPHQL_DEV_MODE: "true"
+      HASURA_GRAPHQL_METADATA_DATABASE_URL: postgres://postgres:postgres@postgres:5432/postgres
+      PG_DATABASE_URL: postgres://postgres:postgres@postgres:5432/chinook
+
+    ports:
+      - "8080:8080"
+
+volumes:
+  db_data:
