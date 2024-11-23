@@ -10,6 +10,7 @@
     }
     }
     ---------------------------
+
     Output :- 
     ---------------------------
     {
@@ -26,6 +27,8 @@
 2.  List the first track of every album by every artist in ascending order.
 
     Pre : Relationship created between artist, album and track table to perform this operation 
+
+    Query :-
     ---------------------------
     query GetFirstTrackOfAlbums {
     artist(order_by: { name: asc }) {
@@ -40,7 +43,7 @@
     }
     ---------------------------
 
-    Output :- 
+    Output is stored in below path due to long output:- 
     ---------------------------
     File : task-one-output/Q2-output.json
     ---------------------------
@@ -65,6 +68,7 @@
     }
     }
     ---------------------------
+
     Output :- 
     ---------------------------
     {
@@ -85,6 +89,7 @@ the dataset.
 
     1. Created artist with name "Qamar Hashmi" and Id = 346 with admin permission 
 
+    Query :-
     ---------------------------
     mutation AddArtist {
     insert_artist_one(object: { name: "Qamar Hashmi",artist_id:346 }) {
@@ -109,6 +114,7 @@ the dataset.
 
     2. Created album with for artist_id = 346 with admin permission 
 
+    Query :-
     ---------------------------
     mutation AddAlbum {
     insert_album_one(object: {album_id: 348, artist_id: 346, title: "My title Song"}) {
@@ -120,7 +126,6 @@ the dataset.
     ---------------------------
 
     Output : 
-
     ---------------------------
     {
     "data": {
