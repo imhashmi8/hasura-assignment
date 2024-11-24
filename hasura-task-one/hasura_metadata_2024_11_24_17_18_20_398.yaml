@@ -1,0 +1,70 @@
+---
+resource_version: 48
+metadata:
+  version: 3
+  sources:
+  - name: chinook
+    kind: postgres
+    tables:
+    - table:
+        name: album
+        schema: public
+      object_relationships:
+      - name: album_artist
+        using:
+          foreign_key_constraint_on: artist_id
+      array_relationships:
+      - name: album_tracks
+        using:
+          foreign_key_constraint_on:
+            column: album_id
+            table:
+              name: track
+              schema: public
+      select_permissions:
+      - role: artist
+        permission:
+          columns:
+          - album_id
+          - title
+          filter:
+            artist_id:
+              _eq: X-Hasura-Artist-Id
+    - table:
+        name: artist
+        schema: public
+      array_relationships:
+      - name: artist_albums
+        using:
+          foreign_key_constraint_on:
+            column: artist_id
+            table:
+              name: album
+              schema: public
+      insert_permissions:
+      - role: artist
+        permission:
+          check:
+            artist_id:
+              _eq: X-Hasura-Artist-Id
+          columns:
+          - artist_id
+          - name
+    - table:
+        name: genre
+        schema: public
+    - table:
+        name: playlist
+        schema: public
+    - table:
+        name: track
+        schema: public
+      object_relationships:
+      - name: track_album
+        using:
+          foreign_key_constraint_on: album_id
+    configuration:
+      connection_info:
+        database_url: postgres://postgres:postgres@postgres:5432/chinook
+        isolation_level: read-committed
+        use_prepared_statements: false
