@@ -1,4 +1,4 @@
-Task one steps performed to achieve Task 1: 
+< Task one steps performed to achieve Task 1: > 
 
 1. Installed Docker Desktop on my machine
 
@@ -52,7 +52,7 @@ Task one steps performed to achieve Task 1:
 "graphql-queires-&-output.md" and "sql-queries-&-output.md" for GraphQL API queries/output and SQL statement queries/output respectively. 
 
 
->>> Challenges and Troubleshooting : 
+< Challenges and Troubleshooting : > 
 
 1. Firstly the challenge was no docker-compose.yaml available for task-1. However, I was able to create a one using the reference from the docker-compose.yaml given in Task 2. 
 
