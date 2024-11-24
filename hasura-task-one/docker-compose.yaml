@@ -5,7 +5,7 @@ services:
     restart: always
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_PASSWORD: #Removed due to security reasons
       POSTGRES_DB: chinook
     ports:
       - "5432:5432"
@@ -19,11 +19,11 @@ services:
     depends_on:
       - postgres
     environment:
-      HASURA_GRAPHQL_ADMIN_SECRET: "mypassword" 
+      HASURA_GRAPHQL_ADMIN_SECRET: "" #Removed due to security reasons
       HASURA_GRAPHQL_ENABLE_CONSOLE: "true" 
       HASURA_GRAPHQL_DEV_MODE: "true"
-      HASURA_GRAPHQL_METADATA_DATABASE_URL: postgres://postgres:postgres@postgres:5432/postgres
-      PG_DATABASE_URL: postgres://postgres:postgres@postgres:5432/chinook
+      HASURA_GRAPHQL_METADATA_DATABASE_URL: postgres://postgres:somepassword@postgres:5432/postgres
+      PG_DATABASE_URL: postgres://postgres:somepassword@postgres:5432/chinook
 
     ports:
       - "8080:8080"

@@ -1,0 +1,40 @@
+services:
+  redis:
+    image: redis:latest
+    restart: always
+    ports:
+      - "6379:6379"
+  postgres:
+    image: postgres:15
+    restart: always
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres #Added
+      POSTGRES_PASSWORD:  #Removed due to security reasons
+      POSTGRES_DB: chinook #Added
+  graphql-engine:
+    image: hasura/graphql-engine:v2.25.0 #Changed
+    container_name: hasura-graphql #Added
+    ports:
+      - "8080:8080" #Changed
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      HASURA_GRAPHQL_ADMIN_SECRET: "" #Removed due to security reasons
+      HASURA_GRAPHQL_METADATA_DATABASE_URL: postgres://postgres:somepassword@postgres:5432/postgres #Chnaged the Password
+      HASURA_GRAPHQL_ENABLE_CONSOLE: "true"
+      HASURA_GRAPHQL_DEV_MODE: "true"
+      HASURA_GRAPHQL_REDIS_URL: "redis://redis:6379"
+      HASURA_GRAPHQL_RATE_LIMIT_REDIS_URL: "redis://redis:6379"
+      PG_DATABASE_URL: postgres://postgres:somepassword@postgres:5432/chinook
+    volumes:
+      - ./metadata:/hasura-metadata  #Added(Use the provided metadata to configure the Hasura GraphQL Engine)
+    command:
+      - graphql-engine
+      - serve
+volumes:
+  db_data:
