@@ -1,11 +1,11 @@
 1. Share your query, the headers used and the results of the following three queries:
 
-For Query 1 : 
-
+    For Query 1 : 
+    
     a. First, I created a relationship between table track and genre with name "track_genre" 
-
+    
     b. In the given query, table name was mentioned as "Tracks". Looking at the database, I found the table name was "track" so updated the same. 
-
+    
     c. Last, under where clause it was mentioned "genre", I updated to "track_genre" i.e., the name created for relationship
 
     Query : 
@@ -48,7 +48,7 @@ For Query 1 :
     }
     ```
 
-For Query 2 : 
+    For Query 2 : 
 
     a. First created a role named "artist" with below check
         {"artist_id":{"_eq":"x-hasura-artist-id"}}
@@ -88,7 +88,7 @@ For Query 2 :
     ```
 
 
-For Query 3 : 
+    For Query 3 : 
 
     a. First created a relationship between table "track" and "album" for mapping "artist_id" with header ID
     
