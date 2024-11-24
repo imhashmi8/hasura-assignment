@@ -46,8 +46,10 @@ Task one steps performed to achieve Task 1:
        INSERT 0 1000
        INSERT 0 715
        ```
+
+   8. Navigated to the Data tab in console and performed the connection from postgress db.
    
-   8. Once the database was up and running, I accessed the application on http:localhost:8080/console and started performing steps executing mentioned the pdf. Please refer file 
+   9. Once the database was up and running, I accessed the application on http:localhost:8080/console and started performing steps executing mentioned the pdf. Please refer file 
    ```
       "graphql-queires-&-output.md" and "sql-queries-&-output.md" for GraphQL API queries/output and SQL statement queries/output respectively. 
    ```
